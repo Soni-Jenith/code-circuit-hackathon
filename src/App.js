@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p className='text-3xl text-blue font-bold top-50'>Travel Itinerary App</p>
+      <p className='text-3xl text-blue font-bold top-60'>Travel Itinerary App</p>
     </div>
   );
 }
